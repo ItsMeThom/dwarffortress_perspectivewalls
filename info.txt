@@ -14,4 +14,3 @@
 [STEAM_TAG:mod]
 [STEAM_TAG:graphics]
 
-[STEAM_FILE_ID:2913113231]
