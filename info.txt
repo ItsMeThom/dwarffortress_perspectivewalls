@@ -1,0 +1,17 @@
+[ID:perspective_walls]
+[NUMERIC_VERSION:23]
+[DISPLAYED_VERSION:1.13]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
+[AUTHOR:Comrade Tum]
+[NAME:Perspective Walls]
+[DESCRIPTION:Replaces wall graphics with a 2.5d forced perspective version.]
+
+[REQUIRES_ID_AFTER_ME:vanilla_environment]
+[CONFLICTS_WITH_ID:obvious_engravings]
+
+[STEAM_TITLE:Perspective Walls]
+[STEAM_TAG:mod]
+[STEAM_TAG:graphics]
+
+[STEAM_FILE_ID:2913113231]

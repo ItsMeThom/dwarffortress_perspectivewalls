@@ -1,0 +1,54 @@
+tile_page_environment
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:WALL_STONE]
+	[FILE:images/wall_stone_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:10]
+
+[TILE_PAGE:WALL_STONE_SMOOTHED]
+	[FILE:images/wall_stone_smoothed_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_STONE_ENGRAVED]
+	[FILE:images/wall_stone_engraved_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_SOIL]
+	[FILE:images/wall_soil_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:10]
+
+[TILE_PAGE:WALL_SAND]
+	[FILE:images/wall_sand_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:20:5]
+
+[TILE_PAGE:WALL_METAL_BARS]
+	[FILE:images/wall_metal_bars_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_ORE_VEIN]
+	[FILE:images/wall_ore_vein_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_WOODEN]
+	[FILE:images/wall_wooden_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_ROCK_BLOCKS]
+	[FILE:images/wall_rock_blocks_perspective.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:FORTIFICATION]
+	[FILE:images/fortification.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+

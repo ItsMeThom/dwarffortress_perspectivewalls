@@ -1,0 +1,50 @@
+tile_page_environment
+
+[OBJECT:TILE_PAGE]
+
+
+[TILE_PAGE:WALL_STONE]
+	[FILE:images/wall_stone.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:10]
+
+[TILE_PAGE:WALL_STONE_SMOOTHED]
+	[FILE:images/wall_stone_smoothed.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_STONE_ENGRAVED]
+	[FILE:images/wall_stone_engraved.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_SOIL]
+	[FILE:images/wall_soil.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:10]
+
+[TILE_PAGE:WALL_SAND]
+	[FILE:images/wall_sand.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:20:5]
+
+[TILE_PAGE:WALL_METAL_BARS]
+	[FILE:images/wall_metal_bars.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_ORE_VEIN]
+	[FILE:images/wall_ore_vein.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_WOODEN]
+	[FILE:images/wall_wooden.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:WALL_ROCK_BLOCKS]
+	[FILE:images/wall_rock_blocks.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
