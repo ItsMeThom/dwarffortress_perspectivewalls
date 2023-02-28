@@ -5,6 +5,8 @@
 
 # About
 
+**13k subscribers!**
+
 A mod to change the graphics perspective of the various tiles & autotiles in the game from a direct top-down view to a more traditional 2.5d view. (Think JRPGs).
 
 # Issues & Suggestions
